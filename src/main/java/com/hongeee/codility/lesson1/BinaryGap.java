@@ -48,10 +48,4 @@ public class BinaryGap {
 
         return max;
     }
-
-    public static void main(String[] args) {
-        BinaryGap solution = new BinaryGap();
-        System.out.println(solution.solution(9));
-        System.out.println(solution.solution(20));
-    }
 }
